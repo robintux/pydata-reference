@@ -26,6 +26,8 @@
 
 ### <a name="groups"> PyData Meetup Groups
 
+- [PyData Meetups](http://www.meetup.com/pro/PyData/)
+
 - [PyData London](http://www.meetup.com/PyData-London-Meetup/)
 
 - [PyData Seattle](http://www.meetup.com/PyData-Seattle/)
