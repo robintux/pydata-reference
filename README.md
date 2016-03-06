@@ -66,9 +66,13 @@
 
 ### <a name="resources"> Resources for Learning Python, PyData, and Data Science
 
-- [Google's Python Class](https://developers.google.com/edu/python/)
+- Python Style Guides
 
-- [Google Python Style Guide](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+ - [Google Python Style Guide](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+
+ - [PEP 8 for Humans](http://pep8.org/)
+
+ - [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 
 - IPython Notebooks
 
@@ -87,6 +91,12 @@
 
  - [Machine Learning](https://www.coursera.org/learn/machine-learning) on Coursera
 
+- Others
+
+ - [Google's Python Class](https://developers.google.com/edu/python/)
+
+ - [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/)
+
 ---
 
 ### <a name="documentation"> Python’s Standard Documentation
@@ -96,6 +106,7 @@
 - [Python Developer's Guide](https://docs.python.org/devguide/)
 
 - [PEPs](https://www.python.org/dev/peps/) (Python Enhancement Proposals)
+
  - [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style guide for python code
 
  - [PEP 257](https://www.python.org/dev/peps/pep-0257/) - Docstring conventions
