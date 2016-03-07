@@ -109,4 +109,6 @@
 
  - [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style guide for python code
 
+ - [PEP 20](https://www.python.org/dev/peps/pep-0020/) - The Zen of Python
+
  - [PEP 257](https://www.python.org/dev/peps/pep-0257/) - Docstring conventions
